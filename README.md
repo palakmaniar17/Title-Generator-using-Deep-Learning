@@ -1,6 +1,9 @@
 # Title-Generator-using-Deep-Learning
 This project aims to develop a machine learning model capable of generating titles for YouTube videos. The model is trained to predict the next word in a sequence based on the preceding words, employing a Long Short-Term Memory (LSTM) architecture. This README file provides an overview of the project, including data collection, preprocessing, model training, and testing, along with insights from the resulting analysis and future scope.
 
+![Untitled](https://github.com/palakmaniar17/Title-Generator-using-Deep-Learning/assets/72376179/071fa4fb-570c-499e-87c0-940fa60519f8)
+
+
 Data Collection and Preprocessing
 
     Data Collection: Collect YouTube video data including titles, views, likes, and dislikes.
